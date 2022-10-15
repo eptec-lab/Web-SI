@@ -1,0 +1,1 @@
+console.log("Welcome to the lab 2 ");
